@@ -1,3 +1,16 @@
+Explicação
+Definição dos parâmetros: Definimos os parâmetros do problema, como o número de financiadores, cedentes, tamanho da população, número de gerações, taxa de crossover e taxa de mutação.
+
+Simulação de dados: Criamos dados simulados para os financiadores e cedentes.
+
+Função de aptidão: Calcula o retorno total e o risco total para uma dada alocação e retorna a aptidão como a diferença entre retorno e risco.
+
+Criação de indivíduos e população: Funções para criar um indivíduo (solução) e a população inicial.
+
+Seleção, crossover e mutação: Implementação dos operadores genéticos para seleção por torneio, crossover e mutação.
+
+Algoritmo genético: A estrutura principal do algoritmo genético que cria novas gerações até atingir o número máximo de gerações, retornando a melhor solução encontrada.
+
 O algoritmo genético foi executado com sucesso por 200 gerações. Abaixo estão os principais resultados:
 
 Melhor solução :[13, 5, 13, 13, 15, 13, 4, 11, 13, 13]

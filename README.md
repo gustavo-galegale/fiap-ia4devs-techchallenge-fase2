@@ -1,3 +1,5 @@
+LINK PARA O VIDEO DO YOUTUBE: https://youtu.be/HFAi-YSoCcQ
+
 Explicação
 Definição dos parâmetros: Definimos os parâmetros do problema, como o número de financiadores, cedentes, tamanho da população, número de gerações, taxa de crossover e taxa de mutação.
 
